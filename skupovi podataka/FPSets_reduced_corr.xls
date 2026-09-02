@@ -1,0 +1,413 @@
+support,itemsets
+0.7411336768717793,frozenset({'f5_low'})
+0.7133979993937557,frozenset({'f67_low'})
+0.6682327978175204,frozenset({'f91_low'})
+0.5306153379812064,frozenset({'f31_low'})
+0.39405880569869656,frozenset({'f157_low'})
+0.374052743255532,frozenset({'f151_medium'})
+0.36420127311306455,frozenset({'f77_medium'})
+0.3601091239769627,frozenset({'f16_low'})
+0.34540769930281906,frozenset({'f130_low'})
+0.34449833282812975,frozenset({'f135_low'})
+0.3438920885116702,frozenset({'f33_low'})
+0.34374052743255534,frozenset({'f32_medium'})
+0.34358896635344044,frozenset({'f144_medium'})
+0.34343740527432554,frozenset({'f83_low'})
+0.34343740527432554,frozenset({'f137_medium'})
+0.3422249166414065,frozenset({'f47_low'})
+0.3410124280084874,frozenset({'f69_medium'})
+0.34086086692937256,frozenset({'f84_medium'})
+0.34070930585025766,frozenset({'f43_medium'})
+0.34055774477114276,frozenset({'f61_low'})
+0.340254622612913,frozenset({'f158_low'})
+0.3401030615337981,frozenset({'f8_low'})
+0.33995150045468325,frozenset({'f79_low'})
+0.33964837829645345,frozenset({'f55_medium'})
+0.3394968172173386,frozenset({'f36_low'})
+0.3387390118217642,frozenset({'f1_medium'})
+0.3387390118217642,frozenset({'f140_low'})
+0.3387390118217642,frozenset({'f123_medium'})
+0.33813276750530463,frozenset({'f56_medium'})
+0.33798120642618973,frozenset({'f163_low'})
+0.33752652318884513,frozenset({'f80_low'})
+0.3370718399515005,frozenset({'f126_low'})
+0.3370718399515005,frozenset({'f93_low'})
+0.33692027887238557,frozenset({'f134_low'})
+0.3366171567141558,frozenset({'f51_low'})
+0.3364655956350409,frozenset({'f44_low'})
+0.3364655956350409,frozenset({'f13_low'})
+0.336314034555926,frozenset({'f166_medium'})
+0.336314034555926,frozenset({'f29_low'})
+0.336314034555926,frozenset({'f116_medium'})
+0.336314034555926,frozenset({'f119_medium'})
+0.3358593513185814,frozenset({'f150_medium'})
+0.3358593513185814,frozenset({'f73_low'})
+0.3357077902394665,frozenset({'f160_medium'})
+0.3357077902394665,frozenset({'f109_low'})
+0.3355562291603516,frozenset({'f125_medium'})
+0.3355562291603516,frozenset({'f124_low'})
+0.33525310700212185,frozenset({'f113_medium'})
+0.3349499848438921,frozenset({'f122_medium'})
+0.3349499848438921,frozenset({'f129_low'})
+0.3347984237647772,frozenset({'f4_low'})
+0.33464686268566235,frozenset({'f89_low'})
+0.33464686268566235,frozenset({'f156_medium'})
+0.33464686268566235,frozenset({'f49_low'})
+0.33449530160654745,frozenset({'f6_medium'})
+0.33449530160654745,frozenset({'f103_low'})
+0.33449530160654745,frozenset({'f18_low'})
+0.33434374052743254,frozenset({'f132_low'})
+0.33434374052743254,frozenset({'f46_low'})
+0.3341921794483177,frozenset({'f59_low'})
+0.3340406183692028,frozenset({'f94_low'})
+0.3340406183692028,frozenset({'f38_medium'})
+0.3338890572900879,frozenset({'f106_low'})
+0.33373749621097304,frozenset({'f54_low'})
+0.33373749621097304,frozenset({'f75_low'})
+0.33343437405274323,frozenset({'f96_low'})
+0.3332828129736284,frozenset({'f127_medium'})
+0.3331312518945135,frozenset({'f161_medium'})
+0.3331312518945135,frozenset({'f26_high'})
+0.3331312518945135,frozenset({'f121_high'})
+0.33297969081539863,frozenset({'f62_medium'})
+0.3326765686571688,frozenset({'f155_high'})
+0.3326765686571688,frozenset({'f28_high'})
+0.332525007578054,frozenset({'f87_medium'})
+0.33222188541982417,frozenset({'f165_high'})
+0.3320703243407093,frozenset({'f63_medium'})
+0.3317672021824795,frozenset({'f24_high'})
+0.3313125189451349,frozenset({'f108_high'})
+0.3313125189451349,frozenset({'f2_high'})
+0.3313125189451349,frozenset({'f68_high'})
+0.3310093967869051,frozenset({'f58_medium'})
+0.33085783570779026,frozenset({'f138_high'})
+0.3304031524704456,frozenset({'f117_high'})
+0.32994846923310095,frozenset({'f10_high'})
+0.32979690815398605,frozenset({'f88_high'})
+0.3296453470748712,frozenset({'f92_high'})
+0.3296453470748712,frozenset({'f101_high'})
+0.3294937859957563,frozenset({'f97_medium'})
+0.32919066383752654,frozenset({'f162_high'})
+0.3278266141254926,frozenset({'f107_medium'})
+0.32691724765080327,frozenset({'f42_high'})
+0.3266141254925735,frozenset({'f148_medium'})
+0.3266141254925735,frozenset({'f64_high'})
+0.3264625644134586,frozenset({'f136_high'})
+0.32525007578053955,frozenset({'f50_high'})
+0.3247953925431949,frozenset({'f20_medium'})
+0.32449227038496514,frozenset({'f133_medium'})
+0.323431342831161,frozenset({'f39_high'})
+0.3225219763564717,frozenset({'f95_high'})
+0.3204001212488633,frozenset({'f70_high'})
+0.31888451045771443,frozenset({'f154_high'})
+0.31888451045771443,frozenset({'f120_medium'})
+0.31721733858745077,frozenset({'f131_high'})
+0.3164595331918763,frozenset({'f37_medium'})
+0.3122158229766596,frozenset({'f115_high'})
+0.30691118520763866,frozenset({'f102_high'})
+0.30554713549560475,frozenset({'f164_high'})
+0.36586844498332827,frozenset({'f68_low'})
+0.3564716580782055,frozenset({'f89_medium'})
+0.3555622916035162,frozenset({'f1_low'})
+0.35268263110033343,frozenset({'f115_medium'})
+0.34889360412246134,frozenset({'f131_medium'})
+0.3476811154895423,frozenset({'f140_medium'})
+0.34737799333131253,frozenset({'f154_medium'})
+0.34540769930281906,frozenset({'f70_low'})
+0.3449530160654744,frozenset({'f20_low'})
+0.3411639890876023,frozenset({'f148_low'})
+0.3410124280084874,frozenset({'f94_medium'})
+0.3410124280084874,frozenset({'f4_medium'})
+0.3404061836920279,frozenset({'f43_low'})
+0.33919369505910885,frozenset({'f88_low'})
+0.33904213397999394,frozenset({'f64_medium'})
+0.3370718399515005,frozenset({'f39_low'})
+0.33692027887238557,frozenset({'f101_medium'})
+0.33692027887238557,frozenset({'f50_low'})
+0.3364655956350409,frozenset({'f10_low'})
+0.3358593513185814,frozenset({'f56_low'})
+0.33510154592300695,frozenset({'f117_medium'})
+0.3338890572900879,frozenset({'f6_low'})
+0.33373749621097304,frozenset({'f136_low'})
+0.33373749621097304,frozenset({'f138_low'})
+0.33373749621097304,frozenset({'f69_low'})
+0.3332828129736284,frozenset({'f108_medium'})
+0.33282812973628373,frozenset({'f127_high'})
+0.332525007578054,frozenset({'f26_medium'})
+0.3323734464989391,frozenset({'f158_high'})
+0.3317672021824795,frozenset({'f120_high'})
+0.33161564110336467,frozenset({'f122_high'})
+0.3313125189451349,frozenset({'f129_high'})
+0.3304031524704456,frozenset({'f24_medium'})
+0.3301000303122158,frozenset({'f119_high'})
+0.32994846923310095,frozenset({'f92_medium'})
+0.3296453470748712,frozenset({'f61_medium'})
+0.3294937859957563,frozenset({'f160_high'})
+0.3293422249166414,frozenset({'f165_medium'})
+0.32919066383752654,frozenset({'f2_medium'})
+0.32888754167929674,frozenset({'f47_medium'})
+0.32888754167929674,frozenset({'f121_medium'})
+0.3284328584419521,frozenset({'f116_high'})
+0.32828129736283723,frozenset({'f33_medium'})
+0.3276750530463777,frozenset({'f83_high'})
+0.3275234919672628,frozenset({'f130_high'})
+0.32615944225522886,frozenset({'f59_high'})
+0.32434070930585024,frozenset({'f84_high'})
+0.3228250985147014,frozenset({'f137_high'})
+0.3225219763564717,frozenset({'f157_medium'})
+0.31994543801151865,frozenset({'f93_high'})
+0.3150954834798424,frozenset({'f51_high'})
+0.30539557441648985,frozenset({'f29_high'})
+0.301303425280388,frozenset({'f77_high'})
+0.4321006365565323,frozenset({'f164_low'})
+0.40951803576841467,frozenset({'f66_low'})
+0.3631403455592604,frozenset({'f37_low'})
+0.35829039102758414,frozenset({'f29_medium'})
+0.35586541376174596,frozenset({'f102_medium'})
+0.3491967262806911,frozenset({'f124_medium'})
+0.3429827220369809,frozenset({'f93_medium'})
+0.33964837829645345,frozenset({'f59_medium'})
+0.3394968172173386,frozenset({'f2_low'})
+0.3394968172173386,frozenset({'f39_medium'})
+0.3355562291603516,frozenset({'f96_medium'})
+0.33540466808123676,frozenset({'f138_medium'})
+0.33464686268566235,frozenset({'f125_low'})
+0.33464686268566235,frozenset({'f156_low'})
+0.3338890572900879,frozenset({'f131_low'})
+0.3338890572900879,frozenset({'f62_low'})
+0.3338890572900879,frozenset({'f155_medium'})
+0.33373749621097304,frozenset({'f154_low'})
+0.33358593513185814,frozenset({'f10_medium'})
+0.33343437405274323,frozenset({'f101_low'})
+0.3331312518945135,frozenset({'f97_high'})
+0.3320703243407093,frozenset({'f63_high'})
+0.33161564110336467,frozenset({'f6_high'})
+0.3294937859957563,frozenset({'f161_high'})
+0.3278266141254926,frozenset({'f33_high'})
+0.3273719308881479,frozenset({'f158_medium'})
+0.32691724765080327,frozenset({'f55_high'})
+0.3249469536223098,frozenset({'f94_high'})
+0.31357987268869353,frozenset({'f140_high'})
+0.3284328584419521,frozenset({'f150_high'})
+0.349348287359806,frozenset({'f120_low'})
+0.3425280387996363,frozenset({'f18_medium'})
+0.33979993937556835,frozenset({'f136_medium'})
+0.3373749621097302,frozenset({'f58_low'})
+0.33510154592300695,frozenset({'f87_low'})
+0.3341921794483177,frozenset({'f70_medium'})
+0.33297969081539863,frozenset({'f133_high'})
+0.3310093967869051,frozenset({'f28_medium'})
+0.3294937859957563,frozenset({'f107_high'})
+0.32812973628372233,frozenset({'f38_high'})
+0.32600788117611396,frozenset({'f56_high'})
+0.3211579266444377,frozenset({'f144_high'})
+0.3425280387996363,frozenset({'f133_low'})
+0.3404061836920279,frozenset({'f92_low'})
+0.336314034555926,frozenset({'f28_low'})
+0.33540466808123676,frozenset({'f32_low'})
+0.33373749621097304,frozenset({'f129_medium'})
+0.3323734464989391,frozenset({'f87_high'})
+0.3310093967869051,frozenset({'f88_medium'})
+0.3304031524704456,frozenset({'f36_medium'})
+0.32812973628372233,frozenset({'f42_medium'})
+0.32615944225522886,frozenset({'f95_medium'})
+0.31888451045771443,frozenset({'f43_high'})
+0.3373749621097302,frozenset({'f97_low'})
+0.3347984237647772,frozenset({'f84_low'})
+0.33070627462867536,frozenset({'f13_medium'})
+0.32540163685965445,frozenset({'f123_high'})
+0.35904819642315855,frozenset({'f126_medium'})
+0.7576538344953017,frozenset({'f145_low'})
+0.3449530160654744,frozenset({'f42_low'})
+0.3387390118217642,frozenset({'f162_low'})
+0.3373749621097302,frozenset({'f161_low'})
+0.3372234010306153,frozenset({'f102_low'})
+0.3347984237647772,frozenset({'f160_low'})
+0.33343437405274323,frozenset({'f155_low'})
+0.33222188541982417,frozenset({'f148_high'})
+0.3028190360715368,frozenset({'f68_medium'})
+0.3378296453470749,frozenset({'f50_medium'})
+0.33282812973628373,frozenset({'f13_high'})
+0.32994846923310095,frozenset({'f163_medium'})
+0.32888754167929674,frozenset({'f47_high'})
+0.32979690815398605,frozenset({'f61_high'})
+0.34828735980600184,frozenset({'f51_medium'})
+0.34267959987875113,frozenset({'f107_low'})
+0.3366171567141558,frozenset({'f134_medium'})
+0.3357077902394665,frozenset({'f150_low'})
+0.32888754167929674,frozenset({'f83_medium'})
+0.3310093967869051,frozenset({'f96_high'})
+0.3301000303122158,frozenset({'f36_high'})
+0.30979084571082144,frozenset({'f66_high'})
+0.3056986965747196,frozenset({'f1_high'})
+0.32525007578053955,frozenset({'f69_high'})
+0.33070627462867536,frozenset({'f156_high'})
+0.32085480448620796,frozenset({'f32_high'})
+0.3357077902394665,frozenset({'f132_medium'})
+0.3204001212488633,frozenset({'f37_high'})
+0.3358593513185814,frozenset({'f63_low'})
+0.3331312518945135,frozenset({'f62_high'})
+0.3317672021824795,frozenset({'f91_high'})
+0.33161564110336467,frozenset({'f58_high'})
+0.32979690815398605,frozenset({'f125_high'})
+0.32676568657168836,frozenset({'f166_high'})
+0.31903607153682934,frozenset({'f31_high'})
+0.30387996362534103,frozenset({'f126_high'})
+0.33601091239769626,frozenset({'f151_low'})
+0.35131858138829947,frozenset({'f95_low'})
+0.33692027887238557,frozenset({'f166_low'})
+0.31524704455895725,frozenset({'f124_high'})
+0.32994846923310095,frozenset({'f132_high'})
+0.3320703243407093,frozenset({'f163_high'})
+0.3384358896635344,frozenset({'f165_low'})
+0.5275841163989088,frozenset({'f146_low'})
+0.3378296453470749,frozenset({'f38_low'})
+0.3357077902394665,frozenset({'f73_medium'})
+0.33343437405274323,frozenset({'f55_low'})
+0.33767808426796,frozenset({'f75_medium'})
+0.3358593513185814,frozenset({'f123_low'})
+0.33343437405274323,frozenset({'f122_low'})
+0.33525310700212185,frozenset({'f116_low'})
+0.3313125189451349,frozenset({'f113_high'})
+0.3241891482267354,frozenset({'f4_high'})
+0.33767808426796,frozenset({'f49_medium'})
+0.3313125189451349,frozenset({'f79_high'})
+0.312973628372234,frozenset({'f16_medium'})
+0.3320703243407093,frozenset({'f162_medium'})
+0.32706880872991817,frozenset({'f130_medium'})
+0.32691724765080327,frozenset({'f16_high'})
+0.32828129736283723,frozenset({'f46_high'})
+0.33813276750530463,frozenset({'f106_medium'})
+0.3357077902394665,frozenset({'f54_medium'})
+0.3338890572900879,frozenset({'f8_medium'})
+0.3284328584419521,frozenset({'f73_high'})
+0.3338890572900879,frozenset({'f109_medium'})
+0.33085783570779026,frozenset({'f103_high'})
+0.3302515913913307,frozenset({'f20_high'})
+0.328584419521067,frozenset({'f75_high'})
+0.3264625644134586,frozenset({'f134_high'})
+0.32297665959381633,frozenset({'f18_high'})
+0.33055471354956045,frozenset({'f54_high'})
+0.3373749621097302,frozenset({'f46_medium'})
+0.3279781752046075,frozenset({'f106_high'})
+0.33373749621097304,frozenset({'f137_low'})
+0.3287359806001819,frozenset({'f79_medium'})
+0.34540769930281906,frozenset({'f80_medium'})
+0.33752652318884513,frozenset({'f44_medium'})
+0.33540466808123676,frozenset({'f108_low'})
+0.33525310700212185,frozenset({'f144_low'})
+0.33464686268566235,frozenset({'f103_medium'})
+0.33449530160654745,frozenset({'f77_low'})
+0.33434374052743254,frozenset({'f26_low'})
+0.33358593513185814,frozenset({'f119_low'})
+0.33343437405274323,frozenset({'f113_low'})
+0.33146408002424976,frozenset({'f135_high'})
+0.3304031524704456,frozenset({'f109_high'})
+0.32600788117611396,frozenset({'f8_high'})
+0.33798120642618973,frozenset({'f121_low'})
+0.3378296453470749,frozenset({'f24_low'})
+0.33510154592300695,frozenset({'f115_low'})
+0.33449530160654745,frozenset({'f117_low'})
+0.33434374052743254,frozenset({'f64_low'})
+0.3338890572900879,frozenset({'f127_low'})
+0.32600788117611396,frozenset({'f44_high'})
+0.3240375871476205,frozenset({'f135_medium'})
+0.31706577750833587,frozenset({'f80_high'})
+0.3088814792361322,frozenset({'f89_high'})
+0.3276750530463777,frozenset({'f49_high'})
+0.5494089117914519,"frozenset({'f5_low', 'f145_low'})"
+0.6060927553804183,"frozenset({'f5_low', 'f67_low'})"
+0.5325856320096999,"frozenset({'f67_low', 'f145_low'})"
+0.4464989390724462,"frozenset({'f5_low', 'f67_low', 'f145_low'})"
+0.47499242194604424,"frozenset({'f5_low', 'f91_low'})"
+0.4546832373446499,"frozenset({'f67_low', 'f91_low'})"
+0.5145498635950287,"frozenset({'f145_low', 'f91_low'})"
+0.367535616853592,"frozenset({'f5_low', 'f145_low', 'f91_low'})"
+0.3776902091542892,"frozenset({'f5_low', 'f67_low', 'f91_low'})"
+0.35510760836617156,"frozenset({'f67_low', 'f145_low', 'f91_low'})"
+0.5201576235222795,"frozenset({'f31_low', 'f91_low'})"
+0.4419521066989997,"frozenset({'f5_low', 'f31_low'})"
+0.3669293725371325,"frozenset({'f31_low', 'f67_low'})"
+0.41179145195513794,"frozenset({'f31_low', 'f145_low'})"
+0.43149439224007274,"frozenset({'f5_low', 'f31_low', 'f91_low'})"
+0.3601091239769627,"frozenset({'f31_low', 'f67_low', 'f91_low'})"
+0.3517732646256441,"frozenset({'f5_low', 'f31_low', 'f67_low'})"
+0.40421339799939376,"frozenset({'f31_low', 'f145_low', 'f91_low'})"
+0.34343740527432554,"frozenset({'f5_low', 'f31_low', 'f145_low'})"
+0.3616247347681115,"frozenset({'f157_low', 'f67_low'})"
+0.32540163685965445,"frozenset({'f5_low', 'f157_low'})"
+0.30782055168232797,"frozenset({'f5_low', 'f157_low', 'f67_low'})"
+0.30175810851773266,"frozenset({'f5_low', 'f151_medium'})"
+0.30312215822976657,"frozenset({'f67_low', 'f16_low'})"
+0.3067596241285238,"frozenset({'f5_low', 'f130_low'})"
+0.30372840254622613,"frozenset({'f5_low', 'f47_low'})"
+0.32994846923310095,"frozenset({'f31_low', 'f1_medium'})"
+0.32979690815398605,"frozenset({'f1_medium', 'f91_low'})"
+0.322067293119127,"frozenset({'f31_low', 'f1_medium', 'f91_low'})"
+0.3147923613216126,"frozenset({'f166_medium', 'f91_low'})"
+0.31888451045771443,"frozenset({'f91_low', 'f125_medium'})"
+0.30312215822976657,"frozenset({'f44_low', 'f46_low'})"
+0.3041830857835708,"frozenset({'f54_low', 'f80_low'})"
+0.4157320400121249,"frozenset({'f164_low', 'f91_low'})"
+0.3358593513185814,"frozenset({'f31_low', 'f164_low'})"
+0.3384358896635344,"frozenset({'f164_low', 'f145_low'})"
+0.3276750530463777,"frozenset({'f31_low', 'f164_low', 'f91_low'})"
+0.3304031524704456,"frozenset({'f145_low', 'f164_low', 'f91_low'})"
+0.3449530160654744,"frozenset({'f5_low', 'f66_low'})"
+0.30266747499242197,"frozenset({'f2_low', 'f91_low'})"
+0.33464686268566235,"frozenset({'f31_low', 'f125_low'})"
+0.33464686268566235,"frozenset({'f125_low', 'f91_low'})"
+0.33464686268566235,"frozenset({'f31_low', 'f125_low', 'f91_low'})"
+0.31448923916338284,"frozenset({'f156_low', 'f91_low'})"
+0.3179751439830252,"frozenset({'f31_low', 'f131_low'})"
+0.312973628372234,"frozenset({'f131_low', 'f91_low'})"
+0.30918460139436194,"frozenset({'f31_low', 'f131_low', 'f91_low'})"
+0.33358593513185814,"frozenset({'f62_low', 'f91_low'})"
+0.3149439224007275,"frozenset({'f154_low', 'f156_low'})"
+0.31721733858745077,"frozenset({'f101_low', 'f2_low'})"
+0.31630797211276146,"frozenset({'f63_high', 'f91_low'})"
+0.3102455289481661,"frozenset({'f63_high', 'f31_low'})"
+0.31009396786905125,"frozenset({'f63_high', 'f31_low', 'f91_low'})"
+0.3020612306759624,"frozenset({'f161_high', 'f91_low'})"
+0.3196423158532889,"frozenset({'f120_low', 'f145_low'})"
+0.3338890572900879,"frozenset({'f31_low', 'f92_low'})"
+0.33085783570779026,"frozenset({'f92_low', 'f91_low'})"
+0.32464383146408005,"frozenset({'f31_low', 'f92_low', 'f91_low'})"
+0.31433767808426794,"frozenset({'f145_low', 'f28_low'})"
+0.3338890572900879,"frozenset({'f32_low', 'f91_low'})"
+0.32085480448620796,"frozenset({'f32_low', 'f31_low'})"
+0.3196423158532889,"frozenset({'f32_low', 'f31_low', 'f91_low'})"
+0.30084874204304335,"frozenset({'f145_low', 'f88_medium'})"
+0.30979084571082144,"frozenset({'f42_low', 'f91_low'})"
+0.301303425280388,"frozenset({'f5_low', 'f161_low'})"
+0.31706577750833587,"frozenset({'f102_low', 'f91_low'})"
+0.31918763261594424,"frozenset({'f155_low', 'f91_low'})"
+0.30009093664746894,"frozenset({'f150_low', 'f145_low'})"
+0.3225219763564717,"frozenset({'f96_high', 'f91_low'})"
+0.310397090027281,"frozenset({'f36_high', 'f91_low'})"
+0.3150954834798424,"frozenset({'f125_high', 'f91_high'})"
+0.4924219460442558,"frozenset({'f146_low', 'f145_low'})"
+0.3773870869960594,"frozenset({'f146_low', 'f5_low'})"
+0.36359502879660505,"frozenset({'f146_low', 'f91_low'})"
+0.3516217035465293,"frozenset({'f146_low', 'f67_low'})"
+0.34601394361927856,"frozenset({'f146_low', 'f5_low', 'f145_low'})"
+0.34055774477114276,"frozenset({'f146_low', 'f145_low', 'f91_low'})"
+0.3240375871476205,"frozenset({'f146_low', 'f67_low', 'f145_low'})"
+0.3041830857835708,"frozenset({'f145_low', 'f144_low'})"
+0.31691421642922096,"frozenset({'f77_low', 'f144_low'})"
+0.30312215822976657,"frozenset({'f77_low', 'f108_low'})"
+0.3022127917550773,"frozenset({'f145_low', 'f77_low'})"
+0.31085177326462565,"frozenset({'f26_low', 'f144_low'})"
+0.3075174295240982,"frozenset({'f26_low', 'f77_low'})"
+0.3019096695968475,"frozenset({'f145_low', 'f26_low'})"
+0.3175204607456805,"frozenset({'f119_low', 'f26_low'})"
+0.3126705062140042,"frozenset({'f119_low', 'f144_low'})"
+0.3120642618975447,"frozenset({'f119_low', 'f77_low'})"
+0.3034252803879964,"frozenset({'f119_low', 'f145_low'})"
+0.3196423158532889,"frozenset({'f113_low', 'f77_low'})"
+0.31357987268869353,"frozenset({'f113_low', 'f144_low'})"
+0.31085177326462565,"frozenset({'f113_low', 'f26_low'})"
+0.31070021218551075,"frozenset({'f113_low', 'f119_low'})"
+0.3002424977265838,"frozenset({'f113_low', 'f145_low'})"
+0.3049408911791452,"frozenset({'f113_low', 'f77_low', 'f144_low'})"
+0.3058502576538345,"frozenset({'f121_low', 'f64_low'})"
